@@ -1,1 +1,2 @@
-# Netflix_Tableau
+# Netflix Tableau Case Study
+Visualisations in Tableau
