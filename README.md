@@ -1,2 +1,2 @@
 # Netflix Tableau Case Study
-Visualisations in Tableau
+Visualizations in Tableau
